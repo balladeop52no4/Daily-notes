@@ -8,9 +8,11 @@ Let me think...
 - Very basic practice of Servlet/JSP
 - Using SQL for query something, and JDBC setting experience.
 
+Now I have some note in the pass here, it is a serious technic note, and most of these were writing in Chinese, however, I want taking something more easy-going logs about learning right here 🙂
+
 <br>
 
-Screw it, I will start it over and over again till I make, here is the thing:
+Screw it, I will start it over and over again till I make it, here is the thing:
 
 * [Round ONE](https://github.com/balladeop52no4/Daily-notes/issues/1#issue-693073441)
 
