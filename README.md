@@ -12,7 +12,7 @@ Let me think...
 
 <br>
 
-Now I have some note in the pass here, they were serious technic notes, and most of these were writing in Chinese, however, I want to taking something more easy-going thinking logs about learning right here 🙂
+Now I have some note in the past here, they were serious technic notes, and most of these were writing in Chinese, however, I want to taking something more easy-going thinking logs about learning right here 🙂
 
 <br>
 
