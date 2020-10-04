@@ -18,7 +18,7 @@ Now I have some note in the past here, they were serious technic notes, and most
 
 Screw it, I will start it over and over again till I make it, here is the thing:
 
-* [Round TWO ( currenetly ) ](#)
+* [Round TWO ( currenetly ) ](https://github.com/balladeop52no4/Daily-notes/issues/2#issue-714345783)
 * [Round ONE](https://github.com/balladeop52no4/Daily-notes/issues/1#issue-693073441)
 
 <br>
